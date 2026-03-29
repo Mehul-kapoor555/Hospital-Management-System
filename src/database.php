@@ -1,8 +1,8 @@
 <?php
     $db_server = "localhost";
-    $db_user = "root";
-    $db_pass = "mehul2003";
-    $db_name = "hospital";
+    $db_user = "username";
+    $db_pass = "password";
+    $db_name = "database_name";
     $conn = "";
 
     try{
